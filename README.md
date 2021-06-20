@@ -2,6 +2,8 @@
 
 A simple platform to upload images and caption them
 
+
+
 **WORKING**
 
 (1)The project uses Django for creating the app gui for uploading and giving captions to image.
@@ -15,6 +17,8 @@ A simple platform to upload images and caption them
 (5)Then they have to click "Upload" button 
 
 (6)By this, the user will be able to choose, upload and caption the image they want.
+
+
 
 **DESCRIPTION**
 
