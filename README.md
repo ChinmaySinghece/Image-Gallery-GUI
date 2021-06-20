@@ -16,7 +16,7 @@ A simple platform to upload images and caption them
 
 (6)By this, the user will be able to choose, upload and caption the image they want.
 
-**Description**
+**DESCRIPTION**
 
 
 <img src="https://user-images.githubusercontent.com/85982848/122682285-2f52c880-d216-11eb-9473-eedc5464685c.jpeg" width="500" height="500">
@@ -36,7 +36,9 @@ A simple platform to upload images and caption them
 
 
 
-**Authors**
+
+
+**AUTHORS**
 
 Ajeet Ram Verma
 
